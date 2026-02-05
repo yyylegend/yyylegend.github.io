@@ -1,5 +1,5 @@
 ---
-title: "About me/ 关于我"
+title: "About/关于我"
 permalink: /about/
 author_profile: false
 ---
