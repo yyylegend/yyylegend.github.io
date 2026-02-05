@@ -2,7 +2,6 @@
 title: "Exploring SRGAN-Based Model for Image Super-Resolution"
 collection: publications
 category: manuscripts
-permalink: /publication/exploring-srgan-based-model-for-image-super-resolution
 excerpt: "This paper explores the performance of SRGAN and SRResNet architectures for image super-resolution under different training strategies and evaluation metrics."
 date: 2024-11-01
 venue: "CONF-MLA 2024 Workshop on Semantic Communication Based Complexity Scalable Image Transmission System for Resource-Constrained Devices"
