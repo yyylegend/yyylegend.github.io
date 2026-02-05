@@ -65,6 +65,7 @@ Aug 2024 – Dec 2024
 - Developed a Flask-based dashboard to visualize real-time inventory and sensor data from Arduino devices.  
 - Designed REST APIs and data ingestion pipelines for continuous updates.  
 - Improved operational visibility through trend analysis and alert visualization.
+- Try this project here! https://stock-monitoring-gui.onrender.com/
 
 ---
 
@@ -87,7 +88,7 @@ Python (Pandas, NumPy), C / C++
 SQL, Spark, Hadoop (HDFS, MapReduce, YARN), ETL / ELT workflows, Linux, Git
 
 **Machine Learning:**  
-PyTorch, scikit-learn, SRGAN / SRResNet, LLM API integrations
+PyTorch, SRGAN / SRResNet, LLM API integrations
 
 **Tools & Frameworks:**  
 Flask, REST APIs, Jira, Trello
