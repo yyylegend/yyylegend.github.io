@@ -9,89 +9,159 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## 杨润颀  
+**数据分析 / 数据科学方向实习生**
 
-**Washington University in St. Louis**, St. Louis, MO  
-*Master of Science in Financial Technology*  
-2025 – 2026 (Expected)
+**金融科技与分析硕士｜计算机工程本科**
 
-GPA: 3.8 / 4.0  
-
-Relevant Coursework: Cloud Computing, Machine Learning, Big Data (Hadoop/Spark), Statistical Methods
-
-**The Pennsylvania State University**, State College, PA  
-*Bachelor of Science in Computer Engineering*  
-2020 – 2024  
-
-GPA: 3.5 / 4.0  
-
-Relevant Coursework: Data Structures & Algorithms, Operating Systems, Digital Image Processing, Database Systems, Artificial Intelligence
+手机号： 17705277078  
+电子邮箱：randyyang123@hotmail.com  
+居住地： 江苏省扬州市 
 
 ---
 
-## Internship Experience
+## 教育背景
 
-**Coconut Island Games**, Shanghai, China  
-*Game Testing Intern*  
-Mar 2025 – Aug 2025  
+**圣路易斯华盛顿大学（Washington University in St. Louis）**  
+金融科技与分析 硕士  
+GPA：**3.8 / 4.0**  
+2025.08 – 2026.12  
 
-- Analyzed large-scale gameplay logs using Python and Excel to identify crash patterns and performance bottlenecks.    
-- Conducted regression and performance testing and managed defect workflows using Jira and Trello.
-
-**Jiangsu Delauney Information Co., Ltd.**, Nanjing, China  
-*Software Development Intern*  
-May 2024 – Jul 2024  
-
-- Automated CAD drawing workflows by developing C++ / ObjectARX modules.
-- Built Flask-based APIs to connect engineering tools with LLM-powered services.  
-- Developed simple visualization tools in Python to assist engineers in reviewing generated layouts.
+**宾夕法尼亚州立大学（Pennsylvania State University）**  
+计算机工程 本科  
+GPA：**3.5 / 4.0**  
+2020.09 – 2024.12
 
 ---
 
-## Projects
+## 主修课程
 
-**SRGAN Super-Resolution Model Implementation**  
-*PyTorch, Python*  
-Jul 2024 – Aug 2024  
+**金融科技与分析（硕士）**
+- 数据分析与可视化（Data Analytics & Visualization）
+- 大数据系统与应用（Hadoop & Spark）
+- 数据库系统基础 (SQL)
+- 数据驱动决策与金融分析
+- A/B 测试
+- 数据挖掘
+- 区块链/加密货币
 
-- Implemented SRGAN and SRResNet architectures to enhance low-resolution images by restoring high-frequency details.  
-- Built a training pipeline including data preprocessing, loss tuning, and checkpointing.  
-- Evaluated model performance using PSNR and SSIM metrics.
-
-**Inventory Monitoring System for Sheetz, Inc.**  
-*Python, Flask, Arduino, JavaScript*  
-Aug 2024 – Dec 2024  
-
-- Developed a Flask-based dashboard to visualize real-time inventory and sensor data from Arduino devices.  
-- Designed REST APIs and data ingestion pipelines for continuous updates.  
-- Improved operational visibility through trend analysis and alert visualization.
-- Try this project here! https://stock-monitoring-gui.onrender.com/
-
----
-
-## Publications
-
-**Runqi Yang**.  
-*Exploring SRGAN-Based Model for Image Super-Resolution.*  
-Proceedings of the CONF-MLA 2024 Workshop on Semantic Communication Based Complexity Scalable Image Transmission System for Resource-Constrained Devices, 2024.  
-Evaluated SRGAN and SRResNet architectures under different hyperparameter settings using PSNR and SSIM on Set5, Set14, and BSD100 benchmarks.  
-DOI: 10.54254/2755-2721/83/2024GLG0065.
+**计算机工程（本科）**
+- 数据结构与算法
+- 操作系统
+- 计算机网络
+- 计算机组成原理
+- 计算机视觉
+- 人工智能
+- 数字图像处理
 
 ---
 
-## Skills
+## 工作经历
 
-**Programming Languages:**  
-Python (Pandas, NumPy), C / C++
+### 上海椰岛游戏 ｜ 游戏测试 
+**游戏测试部**｜2025.03 – 2025.08  
 
-**Data Engineering:**  
-SQL, Spark, Hadoop (HDFS, MapReduce, YARN), ETL / ELT workflows, Linux, Git
-
-**Machine Learning:**  
-PyTorch, SRGAN / SRResNet, LLM API integrations
-
-**Tools & Frameworks:**  
-Flask, REST APIs, Jira, Trello
+- 参与多款游戏核心模块测试，系统性收集并分析功能、性能与兼容性测试数据，有效拦截潜在上线问题  
+- 独立设计并维护测试用例，覆盖游戏经济系统、战斗系统、UI 交互及抽卡机制等关键业务场景  
+- 使用 **Excel 对性能测试数据进行整理与分析**，围绕帧率、加载时长、内存占用等指标进行对比分析与趋势分析，定位性能瓶颈并支持问题复现  
+- 基于 **Jira / Trello** 管理缺陷数据，跟踪问题全生命周期，提升测试效率与跨团队协作效率  
 
 ---
 
+### 江苏狄诺尼信息技术有限公司 ｜ 软件研发实习  
+**软件研发部**｜2024.05 – 2024.07  
+
+- 学习并参与 **C++ / ObjectARX** 二次开发，在 AutoCAD 环境中实现定制化功能  
+- 参与 **AICAD 项目研发**，使用 Python 调用大语言模型 API，协助实现 CAD 自动绘图功能  
+- 在项目中参与需求分析与技术实现，将业务需求转化为可执行的程序逻辑  
+
+---
+
+## 项目经历
+
+### 简易文件传输系统 ｜ 个人项目  
+2023.01  
+
+- 基于 **TCP/IP socket 编程** 实现客户端–服务器文件传输系统  
+- 对文件传输过程中的 **延迟与稳定性进行测试与对比分析**，通过调整缓冲区大小优化传输性能  
+- 实现基础错误处理逻辑，提高系统在异常网络条件下的稳定性  
+
+**技术栈**：C / C++，TCP/IP，Linux  
+
+---
+
+### 虚拟磁盘管理系统 ｜ 团队项目  
+2023.02 – 2023.05  
+
+- 设计并实现基于 **JBOD 思想** 的磁盘管理模块，支持挂载、卸载与读写操作  
+- 构建缓存管理策略，实现数据查找、更新与 **MRU 算法**，有效提升磁盘访问效率  
+- 通过实验对比不同缓存策略下的系统性能，验证优化效果  
+
+**技术栈**：C / C++，Linux，缓存机制  
+
+---
+
+### 基于 SRGAN 的超分辨率生成对抗网络研究 ｜ 科研项目  
+2024.07 – 2024.08  
+
+- 使用 **PyTorch** 实现 SRGAN，用于图像超分辨率任务  
+- 通过实验对比不同超参数组合（学习率、批次大小、训练轮次）对模型效果的影响  
+- 在 **Set5、Set14、BSD100** 等数据集上评估模型性能，结果优于传统插值方法  
+
+**技术栈**：PyTorch，GAN，数字图像处理  
+
+---
+
+### Sheetz Cooler Sensor GUI – 库存可视化监控系统 ｜ 校企合作项目  
+2024.08 – 2024.12  
+
+- 基于 **Flask** 开发在线库存监控系统，负责后端数据处理与前端展示逻辑  
+- 设计数据采集与传输流程，接收 Arduino 传感器数据并进行解析与存储  
+- 构建动态库存模型，优化数据解析与存储逻辑，确保系统在高负载下稳定运行  
+- 主导需求分析与软件架构设计，协调软硬件集成，提升系统可靠性  
+
+**技术栈**：Python，Flask，Arduino，HTML / CSS / JavaScript 
+
+**可在此处查看Demo**: [点击跳转Demo](https://stock-monitoring-gui.onrender.com)
+
+---
+
+## 论文与研究
+
+- **Exploring SRGAN-Based Model for Image Super-Resolution**（2024）  
+站内列表：<a href="/publications/">Publications</a>
+
+---
+
+## 技能
+
+### 编程与数据分析
+- 熟练使用 **Python** 进行数据分析，掌握 Pandas、NumPy 等常用数据分析库  
+- 熟悉常见数据清洗流程（缺失值处理、异常值识别、数据格式转换），能够基于业务问题构建分析指标  
+- 熟悉 **SQL** 基本语法，能够进行多表查询、聚合分析，并基于结果定位业务或数据问题  
+- 掌握 **Tableau** 的基础使用，能够制作常见数据可视化图表与简单交互式 Dashboard，用于支持数据分析结论展示  
+
+### 数据工程 / 系统基础
+- 了解 **ETL / ELT** 数据处理流程，具备基础数据工程思维  
+- 熟悉 **Linux** 基本命令与开发环境  
+- 了解 **Spark / Hadoop（HDFS、MapReduce）** 的基本原理与使用场景  
+
+### 机器学习
+- 熟悉常见机器学习模型的基本原理，包括线性回归、KNN、决策树、随机森林等  
+- 掌握 **PyTorch**，具备深度学习模型训练与评估经验  
+- 具备 **大语言模型 API 调用与集成经验**  
+
+---
+
+## 语言能力
+
+- 托福 102
+- 可熟练使用英文进行技术交流与文档撰写  
+
+---
+
+## 其他
+
+- 熟练使用 Office（Word / Excel / PowerPoint）  
+- 熟悉计算机硬件组装  
+- 熟练使用 ChatGPT、Claude、DeepSeek-R1、Gemini 等大模型工具  

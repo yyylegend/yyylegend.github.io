@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Runqi Yang"
 title_separator          : "-"
 name                     : &name "Runqi Yang"                     # Update this with your name
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Runqi Yang"
-  pronouns         : "he/him"  
-  bio              : "MS Financial Technology student at Washington University in St. Louis with a background in Computer Engineering. Focused on data analytics, systems development, and machine learning."
-  location         : "St. Louis, MO, USA"
-  employer         : "Washington University in St. Louis"
+  name             : "杨润颀"
+  pronouns         : "He/Him"  
+  bio              : "目前是华盛顿大学圣路易斯分校金融科技与分析硕士研究生，本科毕业于宾夕法尼亚州立大学计算机工程专业。热爱数据分析、系统开发和机器学习，致力于将技术与业务结合，解决实际问题。"
+  location         : "江苏省扬州市"
+  employer         : "圣路易斯华盛顿大学"
   uri              : # URL
   email            : "randyyang123@hotmail.com" 
 
@@ -220,19 +220,22 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
+# These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
+
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
+
+  teaching:
+    output: false
+
   talks:
-    output: true
-    permalink: /:collection/:path/
+    output: false
+
 
 
 # These settings control how pages and collections are included in the site

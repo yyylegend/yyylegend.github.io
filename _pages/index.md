@@ -4,8 +4,8 @@ permalink: /
 author_profile: true
 ---
 
-Welcome.
+**欢迎！**
 
-This site presents my academic background, research interests, publications, and projects.
+本站介绍我的教育背景、研究兴趣、论文与项目。
 
-Please use the navigation bar above to explore my work, or start with the **About** and **CV** pages.
+请使用上方导航栏浏览，或从 **About** 和 **CV** 页面开始。

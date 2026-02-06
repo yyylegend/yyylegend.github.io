@@ -9,6 +9,9 @@ paperurl: "/files/Exploring_SRGAN-Based_Model_for_Image_Super-Resolu.pdf"
 citation: "Yang, R. (2024). <i>Exploring SRGAN-Based Model for Image Super-Resolution</i>. Proceedings of the CONF-MLA 2024 Workshop on Semantic Communication Based Complexity Scalable Image Transmission System for Resource-Constrained Devices."
 ---
 
+> **中文简介**：  
+> 本文研究了 SRGAN 与 SRResNet 在图像超分辨率任务中的表现，对不同训练策略和超参数组合进行了系统对比，并在多个标准数据集上进行了实验评估。
+
 ### Abstract
 
 Transforming low-resolution (LR) images into their high-resolution (HR) counterparts is a challenging endeavor, referred to as image super-resolution (SR). The emphasis of this 
